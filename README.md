@@ -1,3 +1,18 @@
+# PPB-D_6
+
+| NRP | Nama |
+|:-----------:|:---------------------------:|
+| 5025231202  | Lailatul Annisa Fitriana |
+
+## Firebase CRUD dan AUTH
+
+Berikut adalah hasil dari screenshoot CRUD dan AUTH.
+
+![CRUD](assets/CRUD.png)
+
+![AUTH](assets/AUTH.png)
+
+
 # flutter_application_6
 
 A new Flutter project.
